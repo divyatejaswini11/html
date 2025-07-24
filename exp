@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset=""UTF-8">
+        <title> my first html webpage </title> <
+
+    </head>
+    <body>
+        <h1>welcome to html!</h1>
+        <p> this is a paragraph in my first webpage</p>
+    </body>
+</html>
